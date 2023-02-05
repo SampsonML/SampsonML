@@ -1,6 +1,6 @@
-### Hi there lonesome traveller
+### Hi there weary traveller 🌲 ⛰️ 🌙
 
-I'm a graduate student at Princeton University working on machine learning (💻 🤖) and computational astrophysics (🪐).    
+I'm a graduate student at Princeton University working on machine learning 💻 🤖 and computational astrophysics 🪐.    
 Get in touch to collaborate!
 
 <!--
