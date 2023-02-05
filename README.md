@@ -1,9 +1,9 @@
 ### Hi there weary traveller 🌲 ⛰️ 🌙 ☕
 
 I'm a graduate student at Princeton University working on machine learning 💻 🤖 and computational astrophysics 🪐.    
-Get in touch to collaborate!<p align=right>
-<img width=150 src="brain_gif.gif" />
-</p>
+Get in touch to collaborate!
+<img align="right" width=150 src="brain_gif.gif" />
+
 
 <!--
 **SampsonML/SampsonML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
