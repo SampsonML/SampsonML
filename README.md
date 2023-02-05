@@ -3,6 +3,8 @@
 I'm a graduate student at Princeton University working on machine learning 💻 🤖 and computational astrophysics 🪐.    
 Get in touch to collaborate!
 
+<img src="rain_gif.gif" height="400">
+
 <!--
 **SampsonML/SampsonML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
