@@ -1,8 +1,7 @@
 ### Hi there weary traveller 🌲 ⛰️ 🌙 ☕
 
 I'm a graduate student at Princeton University working on machine learning 💻 🤖 and computational astrophysics 🪐.    
-Get in touch to collaborate!
-<p align=right>
+Get in touch to collaborate!<p align=right>
 <img width=150 src="brain_gif.gif" />
 </p>
 
