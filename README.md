@@ -1,6 +1,7 @@
-### Welcome to my digital life
+### Hi there lonesome traveller
 
-I'm a graduate student at Princeton working on computational astrophysics and machine learning. Get in touch to collaborate!
+I'm a graduate student at Princeton University working on machine learning (💻 🤖) and computational astrophysics (🪐).    
+Get in touch to collaborate!
 
 <!--
 **SampsonML/SampsonML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
