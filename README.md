@@ -4,7 +4,7 @@ I'm a graduate student at Princeton University working on machine learning 💻 
 
 Get in touch to collaborate!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisampsonMLanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisampsonML=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
