@@ -4,9 +4,7 @@ I'm a graduate student at Princeton University working on machine learning 💻 
 
 Get in touch to collaborate!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sampsonML&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampsonML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sampsonML&show_icons=true&theme=radical&rank_icon=github)
 
 <!--
 **SampsonML/SampsonML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
