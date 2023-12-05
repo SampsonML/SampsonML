@@ -3,7 +3,7 @@
 I'm a PhD student at Princeton University working on machine learning 💻 🤖 \
 and computational astrophysics 🪐.      
 
-Get in touch to collaborate!
+Get in touch to collaborate! \
 [~/astrosampson](https://www.astrosampson.com/)
 
 
