@@ -7,6 +7,4 @@ Get in touch to collaborate! \
 [~/msampson.net](https://www.msampson.net/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sampsonML&show_icons=true&theme=nightowl&rank_icon=percentile)
-
 
